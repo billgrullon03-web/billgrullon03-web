@@ -12,4 +12,5 @@ https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=
 
 
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=whitehttps://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp
+![Power Bi](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=whitehttps://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
