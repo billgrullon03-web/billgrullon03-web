@@ -20,9 +20,9 @@
 
 ## 👨‍💻 About Me
 
-- 📊 Analista de datos enfocado en **finanzas para PYMES** (no “reportes bonitos”: decisiones accionables).
+- 📊 Analista de datos enfocado en **finanzas para PYMES 
 - 🧾 Te ayudo a pasar de *“facturo bien pero no sé si gano”* a **control real de rentabilidad y cashflow**.
-- 🧠 Trabajo con: **dashboards**, **modelos simples**, **KPI’s**, y **automatización** (menos Excel manual, más claridad).
+- 🧠 Trabajo con: **dashboards**, **modelos simples**, **KPI’s**, y **automatización**.
 - 🎯 Ideal para PYMES con tiempo en el mercado que están **estancadas** y quieren recuperar control.
 
 ## 🧰 Tech Stack
@@ -55,7 +55,7 @@
 
 ---
 
-## 🚀 Proyectos Destacados (tu vitrina)
+<!-- ## 🚀 Proyectos Destacados (tu vitrina)
 
 > **Tip importante:** aquí pon tus 3–6 repos más fuertes.  
 > Reemplaza `NOMBRE_REPO_1` por el nombre real del repo.
@@ -77,8 +77,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=billgrullon03-web&repo=NOMBRE_REPO_4&theme=github_dark&hide_border=true" />
   </a>
 </p>
-
-### 📌 Si quieres que la gente entienda rápido cada proyecto
+-->
+ <!-- ### 📌 Si quieres que la gente entienda rápido cada proyecto
 Copia este formato debajo de cada repo (en el README del repo):
 
 - **Problema:** (qué problema financiero resuelve)
@@ -86,25 +86,17 @@ Copia este formato debajo de cada repo (en el README del repo):
 - **Qué hice:** (ETL, modelo, dashboard, SQL, etc.)
 - **Resultado:** (decisión o impacto que permite)
 - **Stack:** (Python / Power BI / SQL)
-- **Demo:** (capturas o gif)
+- **Demo:** (capturas o gif) -->
 
----
 
-## 📊 GitHub Analytics (opcional, pero recomendado)
+
+## 📊 GitHub  
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=billgrullon03-web&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billgrullon03-web&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 </p>
 
----
-
-## 🤝 Conecta conmigo
-
-<p align="center">
-  <a href="PON_AQUI_TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="PON_AQUI_TU_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
 
 
 
