@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="PON_AQUI_TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="PON_AQUI_TU_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
+  <a href="LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!--<a href="YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p> -->
 
 <br/>
 
@@ -19,10 +19,10 @@
 
 ## 👨‍💻 About Me
 
-- 📊 Analista de datos enfocado en **finanzas para PYMES 
-- 🧾 Te ayudo a pasar de *“facturo bien pero no sé si gano”* a **control real de rentabilidad y cashflow**.
-- 🧠 Trabajo con: **dashboards**, **modelos simples**, **KPI’s**, y **automatización**.
-- 🎯 Ideal para PYMES con tiempo en el mercado que están **estancadas** y quieren recuperar control.
+- 📊 Analista de datos enfocado en finanzas para PYMES 
+- 🧾 Te ayudo a pasar de *“facturo bien pero no sé si gano”* a *control real de rentabilidad y cashflow*.
+- 🧠 Trabajo con: *dashboards*, *modelos simples*, *KPI’s*, y *automatización*.
+- 🎯 Ideal para PYMES con tiempo en el mercado que están *Estancadas* y quieren recuperar control.
 
 ## 🧰 Tech Stack
 
@@ -85,7 +85,7 @@ Copia este formato debajo de cada repo (en el README del repo):
 - **Qué hice:** (ETL, modelo, dashboard, SQL, etc.)
 - **Resultado:** (decisión o impacto que permite)
 - **Stack:** (Python / Power BI / SQL)
-- **Demo:** (capturas o gif) -->
+- **Demo:** (capturas o gif)
 
 
 
@@ -96,7 +96,7 @@ Copia este formato debajo de cada repo (en el README del repo):
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billgrullon03-web&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 </p>
 
-
+-->
 
 
 
