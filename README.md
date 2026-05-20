@@ -3,7 +3,7 @@
 <h1 align="center"><b>Hola, soy Bill Grullon</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <b>Data Analyst</b> • Ayudo a <b>PYMES</b> a tomar mejores decisiones financieras con datos, dashboards y automatización.
+  <b>Data Analyst</b> • with a focus on quantitative analysis
 </p>
 
 <p align="center">
@@ -19,10 +19,9 @@
 
 ## 👨‍💻 About Me
 
-- 📊 Analista de datos enfocado en finanzas para PYMES 
-- 🧾 Te ayudo a pasar de *“facturo bien pero no sé si gano”* a *control real de rentabilidad y cashflow*.
+- 📊 Data Analyst since 2022
 - 🧠 Trabajo con: *dashboards*, *modelos simples*, *KPI’s*, y *automatización*.
-- 🎯 Ideal para PYMES con tiempo en el mercado que están *Estancadas* y quieren recuperar control.
+- 🎯 Specialized in big data 
 
 ## 🧰 Tech Stack
 
