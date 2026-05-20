@@ -23,26 +23,27 @@
 ## 👨‍💻 About Me
 
 - 📊 Data Analyst since 2022
-- 🧠 Trabajo con: *dashboards*, *modelos simples*, *KPI’s*, y *automatización*.
-- 🎯 Specialized in big data 
-
+- 🧠 I work with: dashboards, simple models, KPIs, and automation.
+- 🎯 Specialized in big data
+- 🗣️ Bilingual <img src="https://flagcdn.com/24x18/us.png" alt="US"/>   <img src="https://flagcdn.com/24x18/es.png" alt="ES"/> 
+  
 ## 🧰 Tech Stack
 
-### 💻 Lenguajes
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 📈 Modelos de visualización
+### 📈 Visualization models
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
 
-### 🗃️ Base de datos
+### 🗃️ Databases
 ![Microsoft%20Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQL%20Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-### ☁️ Nube
+### ☁️ Cloud
 ![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </td>
@@ -53,8 +54,6 @@
 </td>
 </tr>
 </table>
-
----
 
 ## 🏅 Certifications
 
