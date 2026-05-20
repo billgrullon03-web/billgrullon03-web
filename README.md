@@ -57,15 +57,26 @@
 
 ## 🏅 Certifications
 
-| Credential | Issuer | Year | Verify |
-|---|---|---|---|
-| **Google Advanced Data Analytics** | Google / Coursera | 2024 | [View credential ↗](https://coursera.org/share/cc2f8be77c8b6f8c694669cd58ada10a) |
-
+<table>
+  <tr>
+    <td width="70" align="center" valign="middle">
+      <h1>G</h1>
+    </td>
+    <td valign="middle">
+      <b>Google Data Analytics</b><br/>
+      <sub>🏢 Google &nbsp;·&nbsp; 📅 Issued: May 2026</sub><br/>
+      <sub>🪪 ID: IXOR6OPQTMLL</sub><br/><br/>
+      <a href="https://coursera.org/share/cc2f8be77c8b6f8c694669cd58ada10a">
+        <img src="https://img.shields.io/badge/-%F0%9F%94%97%20View%20Credential-1a1a2e?style=for-the-badge&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 <!-- ## 🚀 Proyectos Destacados (tu vitrina)
-
+ <!--
 > **Tip importante:** aquí pon tus 3–6 repos más fuertes.  
 > Reemplaza `NOMBRE_REPO_1` por el nombre real del repo.
-
+ <!--
 <p align="center">
   <a href="https://github.com/billgrullon03-web/NOMBRE_REPO_1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=billgrullon03-web&repo=NOMBRE_REPO_1&theme=github_dark&hide_border=true" />
@@ -74,7 +85,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=billgrullon03-web&repo=NOMBRE_REPO_2&theme=github_dark&hide_border=true" />
   </a>
 </p>
-
+ <!--
 <p align="center">
   <a href="https://github.com/billgrullon03-web/NOMBRE_REPO_3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=billgrullon03-web&repo=NOMBRE_REPO_3&theme=github_dark&hide_border=true" />
@@ -86,7 +97,7 @@
 -->
  <!-- ### 📌 Si quieres que la gente entienda rápido cada proyecto
 Copia este formato debajo de cada repo (en el README del repo):
-
+ <!--
 - **Problema:** (qué problema financiero resuelve)
 - **Datos:** (fuente / estructura)
 - **Qué hice:** (ETL, modelo, dashboard, SQL, etc.)
@@ -94,7 +105,7 @@ Copia este formato debajo de cada repo (en el README del repo):
 - **Stack:** (Python / Power BI / SQL)
 - **Demo:** (capturas o gif)
 
-
+ <!--
 
 ## 📊 GitHub  
 
@@ -102,7 +113,6 @@ Copia este formato debajo de cada repo (en el README del repo):
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=billgrullon03-web&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billgrullon03-web&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 </p>
-
 -->
 
 
