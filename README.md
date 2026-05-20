@@ -1,13 +1,16 @@
 <!-- ![Bill Banner](./assets/bill-banner.png) -->
 
-<h1 align="center"><b>Hola, soy Bill Grullon</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Bill Grullon</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <b>Data Analyst</b> • with a focus on quantitative analysis
 </p>
 
 <p align="center">
-  <a href="LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bill-grullon-caraballo-609018369/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
   <!--<a href="YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p> -->
 
@@ -52,6 +55,12 @@
 </table>
 
 ---
+
+## 🏅 Certifications
+
+| Credential | Issuer | Year | Verify |
+|---|---|---|---|
+| **Google Advanced Data Analytics** | Google / Coursera | 2024 | [View credential ↗](https://coursera.org/share/cc2f8be77c8b6f8c694669cd58ada10a) |
 
 <!-- ## 🚀 Proyectos Destacados (tu vitrina)
 
